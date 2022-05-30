@@ -6,6 +6,7 @@
 body {
 	background-color: #fff;
 	color: #000;
+	font-family: "Monument Grotesk Mono Variable", "Medium", monospace; 
 }
 
 a:active {
